@@ -13,8 +13,4 @@
 #
 ---
 include:
-  - board: planck_rev6
-include:
-  - board: planck_rev6
-include:
-  - board: planck_rev6
+  - board: roco40
