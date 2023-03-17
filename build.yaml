@@ -12,5 +12,5 @@
 #     shield: reviung41
 #
 ---
-board: [ "seeed_xiao" ]
+board: [ "seeeduino_xiao" ]
 shield: [ "roco40" ]
