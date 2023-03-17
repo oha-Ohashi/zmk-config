@@ -12,5 +12,5 @@
 #     shield: reviung41
 #
 ---
-include:
-  - board: roco40
+board: [ "seeed_xiao" ]
+shield: [ "roco40" ]
