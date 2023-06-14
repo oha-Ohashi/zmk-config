@@ -13,4 +13,7 @@
 #
 ---
 board: [ "seeeduino_xiao" ]
-shield: [ "roco40", "dance" ]
+shield: [ "roco40", "dance_left", "dance_right" ]
+include:
+  - board: seeed_xiao_ble
+    shield: setting_reset
