@@ -1,0 +1,12 @@
+file_format: "1"
+id: dance
+name: dance
+type: shield
+url: "#"
+requires:
+  - seeed_xiao
+features:
+  - keys
+siblings:
+  - dence_left
+  - dance_right

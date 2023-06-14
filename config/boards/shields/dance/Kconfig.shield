@@ -1,0 +1,5 @@
+config SHIELD_DANCE_LEFT
+    def_bool $(shields_list_contains,dance_left)
+
+config SHIELD_DANCE_RIGHT
+    def_bool $(shields_list_contains,dance_right)

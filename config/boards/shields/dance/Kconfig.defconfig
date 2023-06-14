@@ -1,0 +1,16 @@
+if SHIELD_DANCE_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "dance"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_DANCE_LEFT || SHIELD_DANCE_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif

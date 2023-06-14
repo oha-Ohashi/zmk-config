@@ -13,4 +13,4 @@
 #
 ---
 board: [ "seeeduino_xiao" ]
-shield: [ "roco40" ]
+shield: [ "roco40", "dance" ]
