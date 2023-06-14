@@ -12,8 +12,8 @@
 #     shield: reviung41
 #
 ---
-board: [ "seeeduino_xiao" ]
+board: [ "seeeduino_xiao_ble" ]
 shield: [ "roco40", "dance_left", "dance_right" ]
 include:
-  - board: seeed_xiao_ble
+  - board: seeeduino_xiao_ble
     shield: setting_reset

@@ -4,7 +4,7 @@ name: dance
 type: shield
 url: "#"
 requires:
-  - seeed_xiao
+  - seeed_xiao_ble
 features:
   - keys
 siblings:
